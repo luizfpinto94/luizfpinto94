@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou o Luiz 👋
 
-<!--
-**luizfpinto94/luizfpinto94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor e busco pensar, entender e criar soluções com JavaScript. Estou focado em aprimorar minhas habilidades no Front-end e Back-end, construindo projetos práticos e entender como funciona esse ecossistema.
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 Gosto muito de estudar e aprender algo novo.
+* 💻 Me alegra contruir projetos e aplicar o que estou aprendendo.
+* 🤝 Sempre a networking.
+
+### Como me encontrar
+
+* **E-mail:** [luizfpinto94@gmail.com](luizfpinto94@gmail.com)
