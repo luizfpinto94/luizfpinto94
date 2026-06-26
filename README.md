@@ -6,7 +6,7 @@ Sou um desenvolvedor e busco pensar, entender e criar soluções com JavaScript.
 
 * 📚 Gosto muito de estudar e aprender algo novo.
 * 💻 Me alegra contruir projetos e aplicar o que estou aprendendo.
-* 🤝 Sempre a networking.
+* 🤝 Sempre aberto a networking.
 
 ### Como me encontrar
 
